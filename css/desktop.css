@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+.title{
+background-color: coral;
+padding: 20px;
+float: center;
+width: 20%   
+}
+
+footer{
+    display: block;
+    text-align: left;
+    padding: 3px;
+    background-color: darkcyan;
+    color: white;
+}
